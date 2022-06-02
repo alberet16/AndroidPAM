@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kelompok 11</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="title_home">Home</string>
+    <string name="keranjang">Keranjang</string>
+    <string name="akun">Akun</string>
+    <string name="masukkan_keranjang">Masukkan Keranjang</string>
+    <string name="masuk">Masuk</string>
+</resources>
